@@ -1,0 +1,54 @@
+.introa {
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    min-height: 300px;
+    margin: auto;
+    background-color: #f3f5f4;
+    color: rgb(238, 236, 231);
+}
+.introa h1 {
+    font-size: 25px;
+}
+.section1 p {
+    font-size: 20px;
+}
+
+.qui-sommes-nous {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #0a0808;
+    width: 200px;
+    height: 200px;
+    border-radius: 70%;
+}
+
+
+.contenti {
+    width: 80%;
+    max-width: 900px;
+    margin: auto;
+    padding: 20px 0;
+}
+
+.section1 {
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.section1 h2 {
+    margin-bottom: 10px;
+}
+
+.gauche1 {
+    text-align: left;
+    border-bottom: 2px solid #4CAF50;
+}
+
+.droite1 {
+    text-align: right;
+    border-bottom: 2px solid #4CAF50;
+}
