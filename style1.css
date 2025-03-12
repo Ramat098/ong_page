@@ -361,7 +361,7 @@ p {
 }
 
 .full-image-section {
-    background-image: url('images/eco.png'); /*  ton image */
+    background-image: url('eco.png'); /*  ton image */
     background-size: cover;
     background-position: center;
     height: 100vh; /* Occupe toute la section */
@@ -390,7 +390,7 @@ p {
     font-size: 35px;
 }
 .full-image-section2 {
-    background-image: url('images/donate.png'); /*  ton image */
+    background-image: url('donate.png'); /*  ton image */
     background-size: cover;
     background-position: center;
     height: 100vh; /* Occupe toute la section */
